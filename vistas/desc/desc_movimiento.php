@@ -1,0 +1,3 @@
+<p class="text-justify">
+    En el módulo MOVIMIENTOS usted puede realizar, buscar y ver todos los movimientos de efectivo realizados en las cajas de ventas. Los movimientos de <strong>“Entrada de efectivo”</strong> son aquellos donde se ingresa dinero a las cajas de ventas. Los movimientos de <strong>“Retiro de efectivo”</strong> son aquellos donde se extrae el dinero de las cajas de ventas. 
+</p>
